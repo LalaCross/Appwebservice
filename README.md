@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Blank PhoneGap App
 
 ## Usage
@@ -12,3 +13,7 @@ In your browser, open the file:
 
     /www/index.html
 
+=======
+# Appwebservice
+appwebservice
+>>>>>>> origin/master
